@@ -3,7 +3,7 @@
 ### I am:
 - 🎓 Final year Comp Sci student at the 🇨🇦 University of Alberta, graduating spring 2021.
 - 🙇 Working on `React.js`, `Node.js`, `Python`
-- 🌊 Learning `TypeScript`, `Next.js`, `Redux`, `AWS`
+- 🌊 Learning `TypeScript`, `Next.js`, `GraphQL`, `Redux`, `AWS`
 - 🤝 Looking to collaborate on `JavaScript` & `Python` projects
 - 🏢 Actively looking for new grad / junior software engineer roles
 
