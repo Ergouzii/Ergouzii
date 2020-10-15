@@ -12,4 +12,4 @@
 🕺 My website: [xiaohuiliu.me](https://xiaohuiliu.me)
 
 
-[![Xiaohui's github stats](https://github-readme-stats.vercel.app/api?username=ergouzii&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Xiaohui's github stats](https://github-readme-stats.vercel.app/api?username=xiaohui-j-liu&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
