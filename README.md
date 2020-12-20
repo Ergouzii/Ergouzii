@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am:
-- 🎓 Comp Sci student at the 🇨🇦 University of Alberta, graduating spring 2021.
+- 🎓 Comp Sci student at the 🇨🇦 University of Alberta, graduating in June 2021.
 - 🙇 Working on `React.js`, `Node.js`, `TypeScript`, `Next.js`, `GraphQL`.
 - 🌊 Learning `Vue.js`, `PHP`, and `Laravel`.
 - 🤝 Looking to collaborate on `JavaScript` & `Python` projects
