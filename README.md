@@ -11,4 +11,4 @@
 🕺 My website: [jayliu.me](https://www.jayliu.me/)
 
 
-[![Xiaohui's github stats](https://github-readme-stats.vercel.app/api?username=xiaohui-j-liu&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Xiaohui's github stats](https://github-readme-stats.vercel.app/api?username=jay-liu-x&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
